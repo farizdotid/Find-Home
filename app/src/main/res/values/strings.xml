@@ -1,3 +1,18 @@
 <resources>
+    <string name="error_cannot_get_location">Failed get latitude longitude location</string>
+
+    <string name="api_key_google_maps">AIzaSyBp95KK6NKftuDCGhp8btLQRutyuBbc50k</string>
+
     <string name="app_name">Find Home</string>
+    <string name="fariz_ramadhan">Fariz Ramadhan</string>
+    <string name="search">Search...</string>
+    <string name="kontak">Kontak</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="see_all_favorite">See All Favorite</string>
+    <string name="my_favorite_property">My Favorite Property</string>
+
+
 </resources>

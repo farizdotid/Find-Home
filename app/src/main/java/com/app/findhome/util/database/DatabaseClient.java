@@ -12,6 +12,7 @@ public class DatabaseClient {
     private DatabaseClient(Context context) {
         mAppDatabase = Room.databaseBuilder(context, AppDatabase.class, "find_home_db")
                 .fallbackToDestructiveMigration()
+                .allowMainThreadQueries()
                 .build();
     }
 
