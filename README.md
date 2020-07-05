@@ -18,7 +18,7 @@
 * 1.0.0
     * Setup project
     
- ## FEATURE
+ ## Feature
  - [x] List Home
  - [x] Search Home
  - [x] List home on map
